@@ -23,7 +23,7 @@ To set up the Senior Students Data Collection project, follow these steps:
 
 bashCopy code
 
-`git clone https://github.com/your-username/Senior-Students-Data-Collection.git`
+`git clone https://github.com/nithin-developer/Senior-Students-Data-Collection.git`
 
 1.  Set up a PHP development environment such as XAMPP or WAMP on your local machine.
 
